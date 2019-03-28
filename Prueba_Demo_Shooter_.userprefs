@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Stats_UI.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Char_mov.cs" Line="45" Column="4" />
+      <File FileName="Assets\Enemys\Enemie_Mago.cs" Line="103" Column="3" />
+      <File FileName="Assets\Enemys\Enemy_frog.cs" Line="32" Column="64" />
+      <File FileName="Assets\Enemys\Enemie_phantom.cs" Line="113" Column="75" />
+      <File FileName="Assets\Scripts\Global.cs" Line="7" Column="29" />
+      <File FileName="Assets\Scripts\Stats_UI.cs" Line="88" Column="17" />
+      <File FileName="Assets\Chars\Weapon_shoot.cs" Line="8" Column="27" />
+      <File FileName="Assets\Enemys\Stats_enemy.cs" Line="34" Column="35" />
+      <File FileName="Assets\Enemys\Enemie_Zombie.cs" Line="114" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
